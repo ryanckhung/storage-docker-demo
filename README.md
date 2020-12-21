@@ -31,3 +31,8 @@
 ### `cd home`
 
 ### `ls`
+
+5. after you build the image, you can import and export the docker image
+
+### `docker save <my_local_image> > xxx.tar`
+### `docker load --input xxx.tar`
